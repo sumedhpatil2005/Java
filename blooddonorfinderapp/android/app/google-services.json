@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875124706390",
+    "project_id": "blooddonorfinderapp-e4072",
+    "storage_bucket": "blooddonorfinderapp-e4072.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875124706390:android:331cdf97fe369068c47ff7",
+        "android_client_info": {
+          "package_name": "com.example.blooddonorfinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOH3E3l-KOUHXzcqJyeVahsPqVtI-vONk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
