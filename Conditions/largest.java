@@ -15,16 +15,17 @@ public class largest {
         Scanner num3 = new Scanner(System.in);
         c = num3.nextInt();
         if(a>b){
-            if(a>c){
+            if(a>c ){
                 System.out.println("A is greater");
             }
             else{
                 System.out.println("C is greater");
             }
-
         }
-        else{
+        else if(b>c){
             System.out.println("B is Greater");
+        }        else{
+          System.out.println("C is greater");
         }
        }
 }
